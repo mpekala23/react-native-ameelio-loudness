@@ -1,6 +1,6 @@
 {
-  "name": "react-native-loudness",
-  "version": "2.0.0",
+  "name": "react-native-ameelio-loudness",
+  "version": "2.0.1",
   "description": "Read microphone loudness in React Native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fchenchen/react-native-loudness"
+    "url": "https://github.com/mpekala23/react-native-ameelio-loudness"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
     "volume",
     "audio"
   ],
-  "author": "Fuchen Chen",
+  "author": "Fuchen Chen, Mark Pekala",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mpekala23/react-native-loudness"
+  "homepage": "https://github.com/mpekala23/react-native-ameelio-loudness"
 }
