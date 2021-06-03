@@ -19,5 +19,6 @@
     "audio"
   ],
   "author": "Fuchen Chen",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mpekala23/react-native-loudness"
 }
